@@ -1,0 +1,32 @@
+{
+  "name": "mm-serializer-json",
+  "version": "1.0.0",
+  "description": "Matter in motion JSON serializer",
+  "main": "index.js",
+  "scripts": {
+    "test": "nyc ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/matter-in-motion/mm-serializer-json.git"
+  },
+  "keywords": [
+    "mm",
+    "mmp",
+    "matter",
+    "motion",
+    "json",
+    "serializer"
+  ],
+  "author": "Alexey Novikov <v@2dubs.com> (http://2dubs.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matter-in-motion/mm-serializer-json/issues"
+  },
+  "homepage": "https://github.com/matter-in-motion/mm-serializer-json#readme",
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "nyc": "^11.6.0"
+  },
+  "dependencies": {}
+}
